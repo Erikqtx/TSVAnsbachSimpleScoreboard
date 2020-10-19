@@ -1,0 +1,110 @@
+.TeamAButton {
+  background-color: #f10405; /* Red */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+}
+.TeamBButton {
+  background-color: #040404; /* Black */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+}
+.ResetButton {
+  background-color: #f10405; /* Red */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+}
+.Reset2Button {
+  background-color: #040404; /* Black */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+}
+
+.TeamA {
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 40px;
+}
+
+.TeamB {
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 40px;
+}
+
+.Logo {
+  padding-left: 1300px;
+}
+.Ansbach {
+  position: relative;
+  bottom: 1023px;
+  right: 65px;
+}
+.Gegner {
+  position: relative;
+  bottom: 1005px;
+  right: 45px;
+}
+.Satz {
+  position: relative;
+  bottom: 1023px;
+  left: 146px;
+}
+
+.Score {
+  position: relative;
+  bottom: 1023px;
+  left: 178px;
+}
+.Satzb {
+  position: relative;
+  bottom: 1005px;
+  left: 125px;
+}
+
+.Scoreb {
+  position: relative;
+  bottom: 1005px;
+  left: 155px;
+}
+
+.Auszeit {
+  position: relative;
+  bottom: 1005px;
+  left: 250px;
+  font-size: 12px;
+}
+.ResetButton3 {
+  background-color: green;
+}
+
+.Logo {
+  right: 20px;
+}
